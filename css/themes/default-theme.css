@@ -1,0 +1,117 @@
+a {
+  color: #000;
+}
+
+.navbar-fixed nav {
+  background-color: #1C1C1C;
+}
+.side-nav li:hover{
+  background-color: #fff;  
+}
+.btn, .btn-large{
+  background-color: #000;
+}
+.btn:hover, .btn-large:hover {
+  background-color: #000;
+}
+.home-title span{
+  color: #363636;
+}
+.about-inner-right>h3{
+  color: #000;
+}
+.personal-information>h3{
+  color: #000;
+}
+.title{
+  color: #000;
+}
+.card-subtitle {
+  color: #000;
+}
+
+.filter {
+  color: #000;
+}
+.filter:focus{
+  background-color: #000;
+}
+
+.counter{
+  color: #ba68c8;
+}
+
+.pro-bar-container.color-wisteria {
+  border-color: #000;
+}
+
+.pro-bar.color-amethyst {
+  background-color: #363636;
+}
+.call-to-about i{
+  color: #000;
+}
+
+#experience{
+  background-color: #000;
+}
+
+.customNavigation i{
+  color: #000;
+}
+
+.footer-top{
+  background-color:#000; 
+}
+
+.submit-btn{
+  background: #000;
+  margin-top: 190px; 
+}
+
+.submit-btn {
+  color: #fff; 
+}
+
+.submit-btn:hover,
+.submit-btn:focus{
+  background: #000 ;
+}
+
+.overlay-header{
+  background-color: #000;
+}
+
+.share-area h4 i,
+.tag-area h4 i {
+  color: #000;
+}
+.share-area a:hover,
+.share-area a:focus{
+  color: #ba68c8;
+}
+
+.reply-btn:hover{
+  background-color: #ba68c8; 
+}
+.pagination li.active{
+  background-color: #ba68c8;
+}
+.card .card-action a {
+  color: #ba68c8;  
+}
+.tagcloud a:hover,
+.tagcloud a:focus{
+  color: #fff;
+  background-color: #ba68c8;
+  border-color: #ba68c8;
+}
+
+.side-nav li:hover,
+.side-nav li.active {
+  background-color: #000; 
+}
+
+.progress .indeterminate {
+  background-color: #000;
+}
